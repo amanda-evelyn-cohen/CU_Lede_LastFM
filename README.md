@@ -8,4 +8,4 @@ APIs with Last.fm (https://www.last.fm/api)
 
 ## Contact
 
-Amanda Cohen, [itellstorieswithdata@gmail.com] (mailto:itellstorieswithdata@gmail.com)
+Amanda Cohen, itellstorieswithdata@gmail.com
