@@ -6,7 +6,11 @@ This is a homework assignment for [The Lede Program at Columbia's Graduate Schoo
 
 Intro To APIs 
 
-## Source
+## Python Skills
+
+For loops, list comprehension, requests, dictionaries, lists
+
+## Data Source
 
 [Last.fm](https://www.last.fm/api)  
 
